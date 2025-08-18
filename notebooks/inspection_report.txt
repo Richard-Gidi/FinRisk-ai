@@ -1,0 +1,12 @@
+DATA INSPECTION REPORT
+==================================================
+
+DATASET OVERVIEW:
+Shape: (100000, 11)
+Memory Usage: 42.55 MB
+
+DATA QUALITY SCORE: 95/100
+
+ISSUES IDENTIFIED:
+- High cardinality in transaction_id (-5 points)
+
