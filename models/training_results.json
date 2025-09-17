@@ -1,0 +1,62 @@
+{
+  "LogisticRegression": {
+    "auc": 1.0,
+    "classification_report": {
+      "0": {
+        "precision": 1.0,
+        "recall": 0.645,
+        "f1-score": 0.78419452887538,
+        "support": 400.0
+      },
+      "1": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0.0
+      },
+      "accuracy": 0.645,
+      "macro avg": {
+        "precision": 0.5,
+        "recall": 0.3225,
+        "f1-score": 0.39209726443769,
+        "support": 400.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 0.645,
+        "f1-score": 0.78419452887538,
+        "support": 400.0
+      }
+    }
+  },
+  "RandomForest": {
+    "auc": 1.0,
+    "classification_report": {
+      "0": {
+        "precision": 1.0,
+        "recall": 0.895,
+        "f1-score": 0.9445910290237467,
+        "support": 400.0
+      },
+      "1": {
+        "precision": 0.0,
+        "recall": 0.0,
+        "f1-score": 0.0,
+        "support": 0.0
+      },
+      "accuracy": 0.895,
+      "macro avg": {
+        "precision": 0.5,
+        "recall": 0.4475,
+        "f1-score": 0.47229551451187335,
+        "support": 400.0
+      },
+      "weighted avg": {
+        "precision": 1.0,
+        "recall": 0.895,
+        "f1-score": 0.9445910290237467,
+        "support": 400.0
+      }
+    }
+  }
+}
